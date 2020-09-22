@@ -8,9 +8,9 @@ Clone this repository to your folder and start any dev server (for example live 
 This game is available at https://mattan11.github.io/OOP-Game-Minesweeper/Saper/ to play.
 
 ## Technologies used by this project
-# HTML
-# CSS - Flexbox, Sprite
-# JavaScript - OOP
+### HTML
+### CSS - Flexbox, Sprite
+### JavaScript - OOP
 
 ## What I have learned
 This is my second project in OOP, I'm getting familiar with methods how to connect many objects, how to create new instances, dependencies between objects etc.
